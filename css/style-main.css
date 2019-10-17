@@ -1950,11 +1950,11 @@ section > .container-fluid {
 }
 .menuzord-menu > li > .megamenu .megamenu-row li.active a i,
 .menuzord-menu > li > .menuzord-menu > li > .megamenu .megamenu-row li:hover a i {
-  color: #fff;
+  color: #8f6238;
 }
 @media only screen and (max-width: 900px) {
   .menuzord-menu {
-    background: #fff;
+    background: #8f6238;
   }
 }
 /* -------- Scrolltofixed ---------- */
